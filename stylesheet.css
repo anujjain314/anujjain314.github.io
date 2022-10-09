@@ -1,0 +1,33 @@
+.big-bold {
+    color: black;
+    font-size: large;
+}
+
+h1 {
+    width: 600px;
+    border: black;
+    padding: 5px;
+    margin: 10px;
+    color: orange
+}
+
+#food {
+    color: black;
+    font-weight: bold;
+}
+
+a:hover {
+    color: blue;
+}
+
+img {
+    height: 30%;
+    width: 60%;
+}
+
+p {
+    width: 300px;
+    border: none;
+    padding: 5px;
+    margin: 10px;
+}
